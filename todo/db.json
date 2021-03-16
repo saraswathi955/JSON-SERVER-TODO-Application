@@ -1,0 +1,20 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "learning react app",
+      "author": "sa"
+    },
+    {
+      "id": 3,
+      "title": "learning hooks in react",
+      "author": "tysa"
+    }
+  ]
+ 
+}
